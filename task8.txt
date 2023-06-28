@@ -1,0 +1,195 @@
+package task8;
+
+public class task1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     
+     
+             
+                   int a =7;
+                   int b =9;
+                   int c =7;
+                   int d =8;
+                 
+        			System.out.println("Check whether (a + b) is greater than (c + D)");
+                    System.out.println(a + b > c + d);
+                   
+               }
+        
+
+        		
+	}
+output:
+Check whether (a + b) is greater than (c + D)
+true
+
+program2
+package task8;
+
+public class task2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+          char a = 'A';
+          System.out.println(a);
+          char b = 'B';
+          System.out.println(b);
+          char c = 'C';
+          System.out.println(c);
+          char d = 'D';
+         System.out.println(d);
+         char e = 'E';
+         System.out.println(e);
+         char f = 'F';
+         System.out.println(f);
+         char g = 'G';
+         System.out.println(g);
+         char h = 'H';
+         System.out.println(h);
+         char i = 'I';
+         System.out.println(i);
+         char j = 'J';
+         System.out.println(j);
+         char k = 'K';
+         System.out.println(k);
+         char l = 'L';
+         System.out.println(l);
+         char m = 'M';
+         System.out.println(m);
+         char n = 'N';
+         System.out.println(n);
+         char o = 'O';
+         System.out.println(o);
+         char p = 'P';
+         System.out.println(p);
+         char q = 'Q';
+         System.out.println(q);
+         char r = 'R';
+         System.out.println(r);
+         char s = 'S';
+         System.out.println(s);
+         char t = 'T';
+         System.out.println(t);
+         char u = 'U';
+         System.out.println(u);
+         char v = 'V';
+         System.out.println(v);
+         char w = 'W';
+         System.out.println(w);
+         char x = 'X';
+         System.out.println(x);
+         char y = 'Y';
+         System.out.println(y);
+         char z = 'Z';
+         System.out.println(z);
+	}
+
+}
+output:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+program3
+
+package task8;
+
+public class task3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String name=" Guvi Greek";
+		System.out.println(name);
+	}
+
+}
+output:
+ Guvi Greek
+
+program4
+
+package task8;
+
+public class task4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    String name="Welcome to Guvi";
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+    System.out.println(name);
+	}
+
+}
+
+output
+
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+Welcome to Guvi
+
+package task8;
+
+public class task5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+     int age =60;
+     
+     if ((age >= 18) && (age <= 60 )) {
+     System.out.println("senior citizen");
+     }
+     
+     else
+     
+     if ((age >= 18) && (age <= 60 )) {
+         System.out.println("not senior citizen");
+         }
+
+}
+}
+
+output
+senior citizen
+
+
+
